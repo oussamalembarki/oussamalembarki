@@ -2,20 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/oussama-lembarki)
 
-I’m a Software Engineering student who loves solving problems and building scalable solutions. I enjoy creating projects from start to finish and exploring new tech along the way.
-
-<img align="right" height="220" width="320" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="coding gif" />
-
-### ♘ Things I Love
-- 💻 Exploring new technologies and building cool stuff  
-- 🍕 Attending hackathons, meetups, and tech events  
-
-### ♘ Languages & Tools
-## Hey, I'm [Oussama!](https://github.com/oussamalembarki/)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/oussama-lembarki)
-
-I’m a Software Engineering student who loves solving problems and building scalable solutions. Experienced with **JavaScript, Node.js, MongoDB, React, Next.js, Python, .NET, and Java**, I enjoy creating projects from start to finish and exploring new tech along the way.
+I’m a Software Engineering student who enjoys solving problems, building scalable solutions, and exploring new technologies. I love working on projects from start to finish.
 
 <img align="right" height="220" width="320" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="coding gif" />
 
