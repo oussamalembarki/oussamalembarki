@@ -4,7 +4,7 @@
 
 I’m a Software Engineering student who loves solving problems and building scalable solutions. Experienced with **JavaScript, Node.js, MongoDB, React, Next.js, Python, .NET, and Java**, I enjoy creating projects from start to finish and exploring new tech along the way.
 
-<img align="right" height="220" width="320" src="https://raw.githubusercontent.com/oussamalembarki/oussamalembarki/master/gifs/coder.gif" alt="coding gif" />
+<img align="right" height="220" width="320" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="coding gif" />
 
 ### ♘ Things I Love
 - 💻 Exploring new technologies and building cool stuff  
