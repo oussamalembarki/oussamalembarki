@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey, I'm [Oussama!](https://github.com/oussamalembarki/)
 
-<!--
-**oussamalembarki/oussamalembarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/oussama-lembarki)
 
-Here are some ideas to get you started:
+I’m a Software Engineering student who loves solving problems and building scalable solutions. Experienced with **JavaScript, Node.js, MongoDB, React, Next.js, Python, .NET, and Java**, I enjoy creating projects from start to finish and exploring new tech along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" height="220" width="320" src="https://raw.githubusercontent.com/oussamalembarki/oussamalembarki/master/gifs/coder.gif" alt="coding gif" />
+
+### ♘ Things I Love
+- 💻 Exploring new technologies and building cool stuff  
+- 🍕 Attending hackathons, meetups, and tech events  
+
+### ♘ Languages & Tools
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="azure sql"></code>
+
+### - Connect with me
+- Email: oussamalembarki79@gmail.com
