@@ -6,9 +6,7 @@ I’m a Software Engineering student who enjoys solving problems, building scala
 
 <img align="right" height="220" width="320" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="coding gif" />
 
-### ♘ Things I Love
 - 💻 Exploring new technologies and building cool stuff  
-- 🍕 Attending hackathons, meetups, and tech events  
 
 ### ♘ Languages & Tools
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"></code>
