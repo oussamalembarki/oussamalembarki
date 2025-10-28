@@ -8,7 +8,7 @@ I’m a Software Engineering student who enjoys solving problems, building scala
 
 - 💻 Exploring new technologies and building cool stuff  
 
-### ♘ Languages & Tools
+###   Languages & Tools
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"></code>
@@ -19,5 +19,5 @@ I’m a Software Engineering student who enjoys solving problems, building scala
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".net"></code>
 <code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git"></code>
 
-### - Connect with me
+###   Connect with me
 - Email: oussamalembarki79@gmail.com
