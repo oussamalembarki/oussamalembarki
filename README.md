@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/oussama-lembarki)
 
-I’m a Software Engineering student who enjoys solving problems, building scalable solutions, and exploring new technologies. I love working on projects from start to finish.
+A Software Engineering student who enjoys solving problems and exploring new technologies.
 
 <img align="right" height="220" width="320" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="coding gif" />
 
