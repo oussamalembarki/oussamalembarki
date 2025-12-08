@@ -21,3 +21,4 @@ A Software Engineering student who enjoys solving problems and exploring new tec
 
 ###   Connect with me
 - Email: oussamalembarki79@gmail.com
+         oussama.lembarki@ismagi.ac.ma
