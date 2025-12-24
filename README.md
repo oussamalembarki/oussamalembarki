@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# About Me:
 I'm **Oussama**, a Software Engineering student who enjoys solving problems and exploring new technologies. I'm focused on building robust backends and dynamic frontends.
 
 - 🔭 I’m currently working on: **Improving my Full-stack skills**
