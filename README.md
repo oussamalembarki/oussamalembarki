@@ -3,9 +3,9 @@
 # About Me:
 I'm **Oussama**, an Aspiring Software Engineer who enjoys solving problems and exploring new technologies.
 
-- 🔭 I’m currently working on: **Improving my Full-stack skills**
+- 🔭 Currently working on: **Improving my Full-stack skills**
 - 📚 Student at: **ISMAGI**
-- ⚡ I find that the best solutions come when listening to Fairuz or Umm Kulthum.
+- ⚡ The best solutions come when listening to Fairuz or Umm Kulthum.
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/oussama-lembarki" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
