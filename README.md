@@ -15,6 +15,7 @@ I'm **Oussama**, an Aspiring Software Engineer who enjoys solving problems and e
   <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
 </a>
 
+
 **Contact:** 
 - oussamalembarki79@gmail.com  
 - oussama.lembarki@ismagi.ac.ma
