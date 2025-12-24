@@ -12,8 +12,7 @@ I'm **Oussama**, an Aspiring Software Engineer who enjoys solving problems and e
 <a href="https://oussamalembarki.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
 
 
-**Contact:** - oussamalembarki79@gmail.com  
-- oussama.lembarki@ismagi.ac.ma
+**Contact:** : oussamalembarki79@gmail.com - oussama.lembarki@ismagi.ac.ma
 
 # 💻 Tech Stack:
 ### Languages
