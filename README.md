@@ -3,17 +3,17 @@
 # About Me:
 I'm **Oussama**, an Aspiring Software Engineer who enjoys solving problems and exploring new technologies.
 
-- 🔭 Currently working on: **Improving my Full-stack skills**
-- 📚 Student at: **ISMAGI**
-- ⚡ The best solutions come when listening to Fairuz or Umm Kulthum.
+-  Currently working on: **Improving my skills**
+-  Student at: **ISMAGI**
+-  The best solutions come when listening to Fairuz or Umm Kulthum.
 
-## 🌐 Socials:
+##  Socials:
 <a href="https://linkedin.com/in/oussama-lembarki" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://oussamalembarki.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
 
 **Contact :** oussamalembarki79@gmail.com - oussama.lembarki@ismagi.ac.ma
 
-# 💻 Tech Stack:
+#  Tech Stack:
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
